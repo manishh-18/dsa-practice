@@ -20,7 +20,7 @@ A well-organized collection of **Data Structures and Algorithms** solutions from
 
 ## 🧮 Progress
 
-![Progress badge](https://img.shields.io/badge/Problems%20Solved-97%2F500-blue)
+![Progress badge](https://img.shields.io/badge/Problems%20Solved-102%2F500-blue)
 - [Leetcode profile](https://leetcode.com/u/manish_52/)
 
 
