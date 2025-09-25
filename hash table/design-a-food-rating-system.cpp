@@ -3,14 +3,14 @@
 // Difficulty : Medium
 
 
-class FoodRatings {
+class FoodRatings{
 public:
+
     unordered_map<string, pair<string,int>> foodInfo;
     unordered_map<string, set<pair<int,string>>> cuisineMap;
 
     FoodRatings(vector<string>& foods, vector<string>& cuisines, vector<int>& ratings) {
-        int n = foods.size();
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < foods.size(); i++) {
             foodInfo[foods[i]] = {cuisines[i], ratings[i]};
             cuisineMap[cuisines[i]].insert({-ratings[i], foods[i]});
         }
