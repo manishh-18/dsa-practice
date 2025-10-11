@@ -1,6 +1,7 @@
 // Problem: Buy Two Chocolates (LeetCode #2706)
 // URL: https://leetcode.com/problems/buy-two-chocolates/
 // Difficulty: Easy
+// Related Topics: Array, Sorting, Greedy
 
 
 
