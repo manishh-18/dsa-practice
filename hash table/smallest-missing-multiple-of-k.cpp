@@ -1,4 +1,4 @@
-// Problem : Smallest Missing Multiple of K(LeetCode #3718)
+// Problem : Smallest Missing Multiple of K (LeetCode #3718)
 // URL     : https://leetcode.com/problems/smallest-missing-multiple-of-k/
 // Difficulty : Medium
 
